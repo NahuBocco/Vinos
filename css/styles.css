@@ -1,0 +1,115 @@
+.no-margin{
+	margin-top: -8px !important;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../img/top2.png");
+
+    /* Set a specific height */
+    min-height: 1080px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    width: 100%;
+}
+
+
+.titulo {
+	font-family: 'Lovers Quarrel', cursive;
+	position: relative;
+	font-size: 250px;
+	text-align: center;
+	color: white;
+	padding-top: 290px;
+
+}
+
+.container2 {
+
+  position: fixed;
+  right: 0;
+  width: 100%;
+}
+
+.topnav {
+
+  overflow: hidden;
+  background-color: #3ff4;
+}
+
+/* Navbar links */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav_left a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.letra_barra {
+	font-family: 'Philosopher', sans-serif;
+}
+
+.logo {
+	font-family: 'Lovers Quarrel', cursive;
+	font-size: 40px !important;
+}
+
+.foto_dos {
+	background-image: url("../img/top.jpg");
+
+    /* Set a specific height */
+    min-height: 1080px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    width: 100%;
+}
+
+
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+
+.slogan{
+	color: white;
+	font-family: 'Sue Ellen Francisco', cursive;
+	text-align: center;
+	font-size: 35px;
+
+}
+
+.opacidad {
+    opacity: 0;
+    transition: 0.5s;
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 500px;
+
+}
+
+.opacidad:hover {
+    opacity: 10;
+    
+}
