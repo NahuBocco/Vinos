@@ -73,8 +73,6 @@
     <div class="row">
         <img class="opacidad col-lg-6" src="img/vino4.jpg">
         <img class="opacidad col-lg-6" src="img/vino5.jpg">
-      
-
     </div>
 
 
