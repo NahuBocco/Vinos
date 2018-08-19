@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Philosopher|Playball|Sacramento|Lovers+Quarrel|Sue+Ellen+Francisco" rel="stylesheet">
     <style>
       body {
-          background-color: black;
+          background-color: #cab2a8;
       }
       </style>
 
@@ -70,28 +70,34 @@
       </a>
     </div>
   -->
-    <div class="contenedor ul">
+
+
+    <div class="contenedor">
       <ul>
         <li>
           <img src="img/catalogo.jpeg">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec magna non tellus laoreet tempus. </p>
         </li>
         <li>
           <img src="img/catalogo.jpeg">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec magna non tellus laoreet tempus. </p>
         </li>
         <li>
           <img src="img/catalogo.jpeg">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec magna non tellus laoreet tempus. </p>
         </li>
+
       </ul>
 
     </div>
 
       
-
+<!--Desvanece
     <div class="row no-margin">
         <img class="opacidad col-md-6" src="img/vino4.jpg">
         <img class="opacidad col-md-6" src="img/vino5.jpg">
     </div>
-
+-->
 
 
 
