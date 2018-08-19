@@ -4,7 +4,7 @@
 
 .parallax {
     /* The image used */
-    background-image: url("../img/Oscar.jpg");
+    background-image: url("../img/topL.jpg");
 
     /* Set a specific height */
     min-height: 1080px; 
@@ -72,7 +72,7 @@
 }
 
 .foto_dos {
-	background-image: url("../img/top.jpg");
+	background-image: url("../img/topL.jpg");
 
     /* Set a specific height */
     min-height: 1080px; 

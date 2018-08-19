@@ -31,10 +31,10 @@
         </div>
         
       </div>
-      <h1 class="titulo">Vinos Oscar</h1>
+        <img src="img/SoloLogo.png">
 
       <div style="width: 60%;margin: auto;">
-        <h4 class="slogan">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a faucibus diam, quis hendrerit nisi. Duis imperdiet et tellus vel blandit. Donec faucibus, neques.</h4>
+        <h4 class="slogan"></h4>
       </div>
       
     </div>
