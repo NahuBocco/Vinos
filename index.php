@@ -98,7 +98,13 @@
         <img class="opacidad col-md-6" src="img/vino5.jpg">
     </div>
 -->
-
+      
+<!--Desvanece
+    <div class="row no-margin">
+        <img class="opacidad col-md-6" src="img/vino4.jpg">
+        <img class="opacidad col-md-6" src="img/vino5.jpg">
+    </div>
+-->
 
 
   
