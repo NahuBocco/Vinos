@@ -2,20 +2,26 @@
 	margin-top: -8px !important;
 }
 
-.parallax {
-    /* The image used */
-    background-image: url("../img/fondo.jpg");
+/*.parallax {
 
-    /* Set a specific height */
+    background-color: #cab2a8;
+
     min-height: 1080px; 
 
-    /* Create the parallax scrolling effect */
+
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 
     width: 100%;
+}*/
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
 
@@ -128,7 +134,7 @@ ul {
 }
 
 ul li{
-  width: 350px;
+  width: 300px;
   float: left;
   border: 1px solid #d1d1d1;
   text-align: center;

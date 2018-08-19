@@ -19,25 +19,20 @@
   </head>
   <body>
 
-    <div class="parallax no-margin" id="inicio">
+    <div class="" id="inicio">
       <div class="container2" style="z-index: 1">
         <div class="topnav letra_barra" >
           <a href="#about">NOSOTROS</a>
           <a href="#news">CONTACTANOS</a>
           <a href="#contact">NUESTROS PRODUCTOS</a>
           <div class="topnav_left letra_barra">
-            <a href="#inicio" class="logo" style="z-index: -1 !important;">Vinos Oscar</a>
+            <a href="#inicio" class="" style="z-index: -1 !important;">ICHUN</a>
           </div>
         </div>
-        
       </div>
-        <img src="img/SoloLogo.png">
-
-      <div style="width: 60%;margin: auto;">
-        <h4 class="slogan"></h4>
-      </div>
-      
     </div>
+
+    <img src="img/SoloLogo.png" class="center" style="padding-top: 80px">
 
     <!--<div id="demo" class="carousel slide no-margin" data-ride="carousel">-->
 
@@ -70,41 +65,30 @@
       </a>
     </div>
   -->
-
-
-    <div class="contenedor">
+    <div class="contenedor ul">
       <ul>
         <li>
           <img src="img/catalogo.jpeg">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec magna non tellus laoreet tempus. </p>
         </li>
         <li>
           <img src="img/catalogo.jpeg">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec magna non tellus laoreet tempus. </p>
         </li>
         <li>
           <img src="img/catalogo.jpeg">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec magna non tellus laoreet tempus. </p>
         </li>
-
+        
       </ul>
 
     </div>
 
       
-<!--Desvanece
+
     <div class="row no-margin">
         <img class="opacidad col-md-6" src="img/vino4.jpg">
         <img class="opacidad col-md-6" src="img/vino5.jpg">
     </div>
--->
-      
-<!--Desvanece
-    <div class="row no-margin">
-        <img class="opacidad col-md-6" src="img/vino4.jpg">
-        <img class="opacidad col-md-6" src="img/vino5.jpg">
-    </div>
--->
+
+
 
 
   
