@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Philosopher|Playball|Sacramento|Lovers+Quarrel|Sue+Ellen+Francisco" rel="stylesheet">
     <style>
       body {
-          background-color: black;
+          background-color: #cab2a8;
       }
       </style>
 
@@ -19,25 +19,20 @@
   </head>
   <body>
 
-    <div class="parallax no-margin" id="inicio">
+    <div class="" id="inicio">
       <div class="container2" style="z-index: 1">
         <div class="topnav letra_barra" >
           <a href="#about">NOSOTROS</a>
           <a href="#news">CONTACTANOS</a>
           <a href="#contact">NUESTROS PRODUCTOS</a>
           <div class="topnav_left letra_barra">
-            <a href="#inicio" class="logo" style="z-index: -1 !important;">Vinos Oscar</a>
+            <a href="#inicio" class="" style="z-index: -1 !important;">ICHUN</a>
           </div>
         </div>
-        
       </div>
-        <img src="img/SoloLogo.png">
-
-      <div style="width: 60%;margin: auto;">
-        <h4 class="slogan"></h4>
-      </div>
-      
     </div>
+
+    <img src="img/SoloLogo.png" class="center" style="padding-top: 80px">
 
     <!--<div id="demo" class="carousel slide no-margin" data-ride="carousel">-->
 
@@ -81,6 +76,7 @@
         <li>
           <img src="img/catalogo.jpeg">
         </li>
+        
       </ul>
 
     </div>
