@@ -108,8 +108,8 @@
 
 .opacidad {
     opacity: 0;
-    float: right;
     transition: 0.5s;
+    float: left;
     padding-right: 0px;
     padding-left: 0px;
     height: 100%;
@@ -177,9 +177,12 @@ ul li{
 }
 
 .responsive {
-    padding: 0 6px;
+    padding: 0 68px;
     float: left;
     width: 24.99999%;
+    
+  
+
 }
 
 @media only screen and (max-width: 700px) {
@@ -200,7 +203,6 @@ ul li{
     display: table;
     clear: both;
 }
-
 
 
 

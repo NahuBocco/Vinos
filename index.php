@@ -66,9 +66,9 @@
     </div>
   -->
     
-<div class="responsive">
+  <div class="responsive">
       <div class="gallery">
-        <a target="_blank">
+        <a>
           <img src="img/catalogo.jpeg">
         </a>
         <div class="desc">Add a description of the image here</div>
@@ -77,7 +77,7 @@
 
     <div class="responsive">
       <div class="gallery">
-        <a target="_blank">
+        <a>
           <img src="img/catalogo.jpeg">
         </a>
         <div class="desc">Add a description of the image here</div>
@@ -86,7 +86,7 @@
 
     <div class="responsive">
       <div class="gallery">
-        <a target="_blank">
+        <a>
           <img src="img/catalogo.jpeg">
         </a>
         <div class="desc">Add a description of the image here</div>
@@ -94,13 +94,13 @@
     </div>
     <div class="responsive">
       <div class="gallery">
-        <a target="_blank">
+        <a>
           <img src="img/catalogo.jpeg">
         </a>
         <div class="desc">Add a description of the image here</div>
       </div>
     </div>
-      
+  </div>
 
     <div class="row opacidad">
         <img class="opacidad col-md-6" src="img/vino4.jpg">
