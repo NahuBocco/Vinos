@@ -21,7 +21,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 50%;
 }
 
 
@@ -45,7 +45,7 @@
 .topnav {
 
   overflow: hidden;
-  background-color: #3ff4;
+  background-color: #c3663d;
 }
 
 /* Navbar links */
@@ -108,6 +108,7 @@
 
 .opacidad {
     opacity: 0;
+    float: right;
     transition: 0.5s;
     padding-right: 0px;
     padding-left: 0px;
@@ -123,21 +124,83 @@
 
 .contenedor {
     margin: auto;
-    width: 960px;
-
+    width: 2250px;
+    text-align: center;
 }
 
+.bordes{
+  border: 1px solid #d1d1d1;
+  margin: 3px;
+  box-sizing: border-box;
+  padding-left: 25px;
+
+
+}
+/*
 ul {
     list-style: none;
     margin: 0px;
     padding: 0px;
 }
 
+
 ul li{
   width: 300px;
-  float: left;
+  /*float: left;
   border: 1px solid #d1d1d1;
   text-align: center;
   margin: 9px;
 
 }
+*/
+
+.gallery {
+    border: 1px solid #ccc;
+}
+
+.gallery:hover {
+    border: 1px solid #777;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+

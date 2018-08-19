@@ -65,25 +65,44 @@
       </a>
     </div>
   -->
-    <div class="contenedor ul">
-      <ul>
-        <li>
+    
+<div class="responsive">
+      <div class="gallery">
+        <a target="_blank">
           <img src="img/catalogo.jpeg">
-        </li>
-        <li>
-          <img src="img/catalogo.jpeg">
-        </li>
-        <li>
-          <img src="img/catalogo.jpeg">
-        </li>
-        
-      </ul>
-
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
     </div>
 
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank">
+          <img src="img/catalogo.jpeg">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
+
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank">
+          <img src="img/catalogo.jpeg">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank">
+          <img src="img/catalogo.jpeg">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
       
 
-    <div class="row no-margin">
+    <div class="row opacidad">
         <img class="opacidad col-md-6" src="img/vino4.jpg">
         <img class="opacidad col-md-6" src="img/vino5.jpg">
     </div>
