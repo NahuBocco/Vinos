@@ -66,41 +66,12 @@
     </div>
   -->
     
-  <div class="responsive">
-      <div class="gallery">
-        <a>
-          <img src="img/catalogo.jpeg">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-    </div>
-
-    <div class="responsive">
-      <div class="gallery">
-        <a>
-          <img src="img/catalogo.jpeg">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-    </div>
-
-    <div class="responsive">
-      <div class="gallery">
-        <a>
-          <img src="img/catalogo.jpeg">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-    </div>
-    <div class="responsive">
-      <div class="gallery">
-        <a>
-          <img src="img/catalogo.jpeg">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-    </div>
+  <div class="container imagn">
+    <a target="_blank" href="img/catalogo.jpeg">
+      <img class="borde" style="margin-left: 250px;" src="img/catalogo.jpeg">
+    </a>
   </div>
+     
 
     <div class="row opacidad">
         <img class="opacidad col-md-6" src="img/vino4.jpg">
