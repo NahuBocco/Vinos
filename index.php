@@ -66,16 +66,16 @@
     </div>
   -->
     
-  <div class="container imagn">
-    <a target="_blank" href="img/catalogo.jpeg">
-      <img class="borde" style="margin-left: 250px;" src="img/catalogo.jpeg">
-    </a>
+  <div>
+    <img  class="zoom col-md-6" style="margin-left: 250px;" src="img/catalogo.jpeg">
+    <img  class="zoom col-md-6" src="img/catalogo.jpeg">
+    <img  class="zoom col-md-6" src="img/catalogo.jpeg">
+    <img  class="zoom col-md-6" src="img/catalogo.jpeg">
   </div>
-     
 
     <div class="row opacidad">
-        <img class="opacidad col-md-6" src="img/vino4.jpg">
-        <img class="opacidad col-md-6" src="img/vino5.jpg">
+        <img class="opacidad col-md-6" src="img/folclore1.jpeg">
+        <img class="opacidad col-md-6" src="img/folclore2.jpeg">
     </div>
 
 
