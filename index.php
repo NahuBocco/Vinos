@@ -67,7 +67,7 @@
   -->
     
   <div>
-    <img  class="zoom col-md-6" style="margin-left: 250px;" src="img/catalogo.jpeg">
+    <img  class="zoom col-md-6" style="margin-left: 200px;" src="img/catalogo.jpeg">
     <img  class="zoom col-md-6" src="img/catalogo.jpeg">
     <img  class="zoom col-md-6" src="img/catalogo.jpeg">
     <img  class="zoom col-md-6" src="img/catalogo.jpeg">
